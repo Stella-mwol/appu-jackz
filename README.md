@@ -1,7 +1,9 @@
 <div align="center">
-  
+
+<div align="center">
+
+  ### <u> Simple Method <u> 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@souravkl11/Raganork-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phathicusthiccy/Raganork.git)
      
-<a href="https://bit.ly/raganork"><img src="https://i0.wp.com/www.printinlondon.co.uk/blog/wp-content/uploads/2017/07/visit-website-button.png?ssl=1" alt="Join our group" height="50" width="150" border="0"></a>
