@@ -3,7 +3,6 @@
 
 
 
-
 <div align="center">
   <a href="https://github.com/Jackz-ser"><img src="https://i.imgur.com/MwMJ3s1.jpeg""width="300" height="300"/>
     <p align="center">
@@ -15,9 +14,9 @@
 <div align="center">
     <p align="center">
 </p>
-  </p>
-<p align="center">
-<a href="https://github.com/Jackz-ser"><img title="jackzappu" src="https://img.shields.io/badge/author-aju001?color=black&style=for-the-badge&logo=github"></a>
+<div align="center">
+ <p align="center">
+<a href="#"><img title="NEERAJ" src="https://img.shields.io/badge/APPU And JACKS-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </div>
 <p align="center">
