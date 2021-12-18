@@ -1,6 +1,3 @@
-<a href="https://github.com/Jackz-ser"><img src="https://i.imgur.com/oCPpYnV.jpeg" alt="google-font" border="0"></a>
-<div align="center">
-
 
 
 <div align="center">
