@@ -1,25 +1,27 @@
-<a href="https://github.com/aju001"><img src="https://fontmeme.com/permalink/211121/32108414fe61d225739702fe3b4c0784.png" alt="google-font" border="0"></a>
+<a href="https://github.com/Jackz-ser"><img src="https://i.imgur.com/oCPpYnV.jpeg" alt="google-font" border="0"></a>
 <div align="center">
 
 
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/Y2mXdR5/ajuser.jpg""width="300" height="300"/>
+  <a href="https://github.com/Jackz-ser"><img src="https://i.imgur.com/MwMJ3s1.jpeg""width="300" height="300"/>
     <p align="center">
     
     
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Anjaliminnu+WA+Bot...;Created+by+Appu+and+jackz....;This+is+a+powerful+bot...;With+more+features...)](https://git.io/typing-svg)
   
-<a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-blue?&style=for-the-badge"></a>
+<a href="#"><img src="https://i.imgur.com/CoZSHJY.jpeg" alt="google-font" border="0"></a>
+<div align="center">
+    <p align="center">
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/aju001"><img title="jackzappu" src="https://img.shields.io/badge/author-aju001?color=black&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Jackz-ser"><img title="jackzappu" src="https://img.shields.io/badge/author-aju001?color=black&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/aju001">jackz and appu</a> to make it public
+Project created by <a href="https://github.com/anjaliminnu">jackz and appu</a> to make it public
     <br>
        | © |
         Reserved |
@@ -30,7 +32,7 @@ Project created by <a href="https://github.com/aju001">jackz and appu</a> to mak
     
 <p align="center">
 
-<a href="https://instagram.com/__ajuz___001?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/safar_muhmd?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 
 </p>
 
@@ -38,12 +40,8 @@ Project created by <a href="https://github.com/aju001">jackz and appu</a> to mak
 
 <p align="center">
 
-<a href="https://youtu.be/MPoRRTkjuW0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtube.com/channel/UCW_2IkmRb85bZFl4uxs4XbQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aju001&show_icons=true&theme=dark&locale=en" alt="aju" /></p>
-    
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aju001&theme=dark" alt="aju" /></p>
-</p>
     
 ```
     
