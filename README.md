@@ -5,7 +5,7 @@
     <p align="center">
     
     
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Stella+mwol+WA+Bot...;Created+by+Appu+and+jackz....;This+is+a+powerful+bot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Stella+mwol+WA+Bot...;Created+by+Appu+and+jackz....;This+is+a+powerful+bgm+wa+bot...;With+more+features...)](https://git.io/typing-svg)
   
 
 <div align="center">
