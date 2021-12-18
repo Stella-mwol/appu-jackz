@@ -10,7 +10,7 @@
     
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Anjaliminnu+WA+Bot...;Created+by+Appu+and+jackz....;This+is+a+powerful+bot...;With+more+features...)](https://git.io/typing-svg)
   
-<a href="#"><img src="https://i.imgur.com/CoZSHJY.jpeg" alt="google-font" border="0"></a>
+
 <div align="center">
     <p align="center">
 </p>
