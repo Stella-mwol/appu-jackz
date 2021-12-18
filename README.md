@@ -18,6 +18,11 @@
  <p align="center">
 <a href="#"><img title="NEERAJ" src="https://img.shields.io/badge/APPU And JACKS-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
+<p align="center">
+<a href="https://github.com/Anjaliminnu"><img title="Author" src="https://img.shields.io/badge/Author-Anjaliminnu/Venom?color=blue&style=for-the-badge&logo=whatsapp"></a>
+</p>
+
+
 </div>
 <p align="center">
 Project created by <a href="https://github.com/anjaliminnu">jackz and appu</a> to make it public
