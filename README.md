@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/Jackz-ser"><img src="https://i.imgur.com/MwMJ3s1.jpeg""width="300" height="300"/>
+  <a href="https://github.com/Jackz-ser"><img src="https://i.imgur.com/4oKtlK3.jpeg""width="200" height="200"/>
     <p align="center">
     
     
