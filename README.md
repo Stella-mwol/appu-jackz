@@ -5,7 +5,7 @@
     <p align="center">
     
     
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Anjaliminnu+WA+Bot...;Created+by+Appu+and+jackz....;This+is+a+powerful+bot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Stella+mwol+WA+Bot...;Created+by+Appu+and+jackz....;This+is+a+powerful+bot...;With+more+features...)](https://git.io/typing-svg)
   
 
 <div align="center">
@@ -46,13 +46,13 @@ Project created by <a href="https://github.com/anjaliminnu">jackz and appu</a> t
     
 ```
     
-Anjali x minnu bot is Open Source software open to development. 
+Stella mwol bot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
 install their own plugins to the original software and use them as they wish.
 Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Anjali x minnu bot is an 
+Usage is entirely the user's responsibility, Stella mwol bot is an 
 infrastructure only. Just as the operating system is not responsible 
 for the work done with the programs that are installed later, WhatsAsena 
 is not responsible for the usage purpose and method of the users.
