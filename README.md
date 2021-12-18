@@ -13,16 +13,16 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="NEERAJ" src="https://img.shields.io/badge/APPU And JACKS-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="NEERAJ" src="https://img.shields.io/badge/Appu Ser And JACKS SER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 <p align="center">
-<a href="https://github.com/Anjaliminnu"><img title="Author" src="https://img.shields.io/badge/Author-Anjaliminnu/Venom?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Stella-mwol"><img title="Author" src="https://img.shields.io/badge/Author-Appu ser and Jackz Ser/Venom?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/anjaliminnu">jackz and appu</a> to make it public
+Project created by <a href="https://github.com/Appu-ser">jackz ser and appu ser</a> to make it public
     <br>
        | © |
         Reserved |
@@ -87,7 +87,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Anjaliminnu/appu-jackz
+$ git clone https://github.com/Stella-mwol/appu-jackz
 $ cd appu-jackz
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -97,7 +97,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Anjaliminnu/appu-jackz
+$ git clone https://github.com/Stella-mwol/appu-jackz
 $ cd appu-jackz
 $ chmod +x *
 $ npm i
@@ -127,9 +127,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Jackz and Appu](https://github.com/aju001.png?size=100)](https://github.com/aju001)
+  [![Jackz ser and Appu ser](https://github.com/aju001.png?size=100)](https://github.com/aju001)
 
-[Jackz and appu](wa.me/918075641889)  
+[Jackz ser and appu ser](wa.me/918075641889)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
 
